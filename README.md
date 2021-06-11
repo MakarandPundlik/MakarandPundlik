@@ -1,8 +1,8 @@
 ### Hello there 
 
 <div>
-
-
+I am a full stack web-developer and also interested in DSA. Actively looking for an internship in web-development/software development. 
+  
 ![Makarand's github stats](https://github-readme-stats.vercel.app/api?username=MakarandPundlik&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarandPundlik&theme=dracula&layout=compact)
 
