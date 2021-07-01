@@ -8,7 +8,7 @@
 
  ![Makarand's github stats](https://github-readme-stats.vercel.app/api?username=MakarandPundlik&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
  ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarandPundlik&theme=dracula&layout=compact)
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakarandPundlik&theme=dark)](https://git.io/streak-stats)
 
   <hr>
  <h2 align="center">Languages Known</h2>
