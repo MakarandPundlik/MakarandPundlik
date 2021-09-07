@@ -2,8 +2,8 @@
 
 <div>
 
- #### I am a full stack web developer currently persuing Electronics & Telecommunication degree in Pune Institute of Computer Technology.  
- #### I like to solve real life problems using web technology, also interested in Data Structures and Algorithms.
+ #### I am a full stack developer and ML enthusiast, currently persuing Electronics & Telecommunication degree in Pune Institute of Computer Technology.  
+ #### 
 
 
  ![Makarand's github stats](https://github-readme-stats.vercel.app/api?username=MakarandPundlik&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
