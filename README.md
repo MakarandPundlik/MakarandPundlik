@@ -5,6 +5,11 @@
  #### I am a full stack developer,ML enthusiast and also interested in DSA, currently persuing Electronics & Telecommunication degree in Pune Institute of Computer Technology.  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/MakarandPundlik) 
 [<img src="https://img.shields.io/badge/-makarand_pundlik-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:mmp2308@gmail.com)
+ <br/>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/hp-pavilion15-0096D6?style=for-the-badge&logo=hp&logoColor=whit"/>
  
 [![GitHub followers](https://img.shields.io/github/followers/MakarandPundlik?color=green?label=Followers&style=for-the-badge)](https://github.com/MakarandPundlik?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/MakarandPundlik?style=for-the-badge)](https://github.com/MakarandPundlik) 
