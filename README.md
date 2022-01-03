@@ -1,8 +1,8 @@
-<h1 align="center">I am Makarand Pundlik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and I write Code</h1>
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
 
- #### I am a full stack developer,ML enthusiast and also interested in DSA, currently persuing Electronics & Telecommunication degree in Pune Institute of Computer Technology.  
+
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/MakarandPundlik) 
 [<img src="https://img.shields.io/badge/-makarand_pundlik-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:mmp2308@gmail.com)
  <br/>
