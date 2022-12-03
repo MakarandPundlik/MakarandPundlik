@@ -12,9 +12,7 @@
  <img src="https://img.shields.io/badge/hp-pavilion15-0096D6?style=for-the-badge&logo=hp&logoColor=whit"/>
  
 [![GitHub followers](https://img.shields.io/github/followers/MakarandPundlik?color=green?label=Followers&style=for-the-badge)](https://github.com/MakarandPundlik?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/MakarandPundlik?style=for-the-badge)](https://github.com/MakarandPundlik) 
-[![Repos Badge](https://badges.pufler.dev/repos/MakarandPundlik?style=for-the-badge)](https://github.com/MakarandPundlik) 
-[![Visits Badge](https://badges.pufler.dev/visits/MakarandPundlik/MakarandPundlik?style=for-the-badge)](https://github.com/MakarandPundlik)
+
 
  ![Makarand's github stats](https://github-readme-stats.vercel.app/api?username=MakarandPundlik&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
  ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarandPundlik&theme=dracula&layout=compact)
