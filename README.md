@@ -1,4 +1,4 @@
-<h1 align="center">I am a developer and Cloud enthusiast</h1>
+<h1 align="center">EX Software Engineer @NICE Ltd </h1>
 
 <div align="center">
 
