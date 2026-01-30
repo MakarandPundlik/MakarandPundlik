@@ -35,17 +35,6 @@ I design and build resilient, scalable distributed systems. My focus is on cloud
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MakarandPundlik&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MakarandPundlik&theme=default&hide_border=true" />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <picture>
